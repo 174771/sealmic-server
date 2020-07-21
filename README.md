@@ -14,7 +14,7 @@
 
 ### 接口文档
 
-请参考 [接口文档](docs/apidoc/index.html)
+文档目录: ${path}/sealmic-server/docs/apidoc/
 
 ### 设计文档
 
